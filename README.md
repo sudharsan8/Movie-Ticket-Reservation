@@ -10,7 +10,7 @@ The application has the following functionalities:
 * booking a ticket
 * card registrations
 
-Check out the [code](https://github.com/Malavikka/Movie-Ticket-Booking-System/blob/master/Movie_Ticket_System.cpp)!
+Check out the [code](https://github.com/sudharsan8/Movie-Ticket-Reservation/blob/master/Movie_Ticket_System.cpp)!
 
 ## Features
 
