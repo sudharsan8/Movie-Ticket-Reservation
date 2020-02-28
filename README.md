@@ -38,10 +38,7 @@ Allows user to register for a DT card with special benefits
 
 ![](/images/card_registration.png)
 
-# Authors
 
-* Malavikka R
-* Sirisha Lanka
 
 # References
 
